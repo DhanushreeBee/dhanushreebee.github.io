@@ -1,35 +1,30 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: As Buzzed as a Bee
 permalink: /about
 comments: true
 ---
+Hi!
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+Welcome to my blog! :)
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+I'm Dhanushree.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+A lot of books have shaped my value system. One such book was on nutrition by Rujuta Diwekar. She brought forth the idea of **'Act Local, Think Global'**. 
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+That resonated deeply with me..
 
-<h4>Questions or bug reports?</h4>
+How I interpret it as- big problems often need to be solved by taking small steps using the most locally available resources and in turn, making progress as much sustainable as possible. 
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+I have translated multiple iterations of this idea in my life:
 
-</div>
+**Food**: My biggest and the most joyous discovery has been to uncover reservoirs of wisdom in my mom's and other time tested recipes which focused on tapping syngery in combination foods for example: eating essential fats like coconut with seeds like sesame for optimum absorbtion.
 
-<div class="col-md-4">
+**Fitness**: How important it is to have a wholesome fitness routine and fitness as a way of life that empowers you towards an active and healthy lifestyle. 
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+**Lifestyle**: Everything that has come to us, be it something as trivial as socks or as big as a car - right from its producton to its eventual decay: environment, societies and people get impacted. It is extremely critical to thoughtfully choose what we buy and use. As Ursula Le Guin put it beautifully - "to light a candle is to cast a shadow."
+P.S. do watch the documentary called The Ship Breakers to understand this perspective.
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+Onto my next step, I am thinking of ways how I can make my career and purpose intersect :) 
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+On my blog, I regularly share my thoughts and discoveries.

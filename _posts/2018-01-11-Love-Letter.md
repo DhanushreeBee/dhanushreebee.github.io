@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "A Love Letter from a Cup to a Sweater"
+author: sal
+categories: [ Humour, Zero Waste ]
+image: assets/images/12.jpg
+featured: true
+hidden: true
+---
+
+They said our relationship would never knit, that there would be no heat! 
+They were wrong, for I love you to the brim!
+Shall I compare thee **on** a winter’s day to summer, temperate and lov-wooly as ever?
+
+When you let yourself wrap around my porcelain skin, as your snuggly hands cup me, my boiling innards let out a sigh. 
+You take away my breath, I see it evaporating..
+
+![Sweater and a Cup](https://miro.medium.com/max/275/1*BqD5QaoS5HhauYlbo_qVqg.jpeg)
+
+Although we’re separated by distance, you in the big cupboard, lonely 
+amidst the crowd almost always unkempt, 
+and I in the kitchen hung-over in your absence whelmed in the constant clink of life,
+our love sustains, it can never fade, 
+neither in the laundry nor in the dishwasher for no soap or detergent can remove our love-stain!
+Everytime we meet, brand new love we brew..
+
+As time withers away our bodies, 
+when I’m old, senile and cracked, 
+when I can no longer ‘hold water’ and when you’re covered with lint balls all over, 
+your skin full of holes, 
+we’ll know our love has stood the test of time, 
+in sickness and health alike.
+
+And I know you will love me, even when we have forgotten our inanimate usual selves. 
+I know you will love me as we repurpose our lives. 
+And be assured that I will love you when you become an ‘upcycled cozy hat’ 
+and I turn into a ‘best out of waste lamp’…
+Our love will be sustained, ages and ages hence…
+
+![Repurposed Sweater and Cup](https://miro.medium.com/max/700/1*j0T-bp4oNDVUvYR8dCvITw.jpeg)

@@ -2,7 +2,7 @@
 layout: page
 title: As Buzzed as a Bee
 permalink: /about
-comments: true
+
 ---
 Hi!
 

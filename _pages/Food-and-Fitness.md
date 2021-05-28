@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Food and Fitness
-permalink: /food-and-fitness/
+permalink: /food-and-fitness
 
 ---
 "No snacks, no seconds, no sweets (unless it is homemade) — except on days that begin with the letter S” 

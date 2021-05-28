@@ -2,7 +2,7 @@
 layout: post
 title:  "The Khichdi Not Taken | A Parody"
 author: sal
-categories: [ Parody, Poem ]
+categories: [ Humour, Food ]
 image: assets/images/3.jpg
 ---
 **A parody of the famous and timeless poem ‘The Road Not Taken’ by Robert Frost:**
